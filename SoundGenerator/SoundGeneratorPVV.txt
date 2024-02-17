@@ -1,0 +1,3 @@
+http://www.spetsialist-mx.ru/Galaksija/index6.html
+
+Scheme of Sound generator from PVV is presented in figure. To start the music playback program, you need to type on the keyboard: PTXPLAYER from the PTX directory. See screenshot below.

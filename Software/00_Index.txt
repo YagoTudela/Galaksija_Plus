@@ -1,0 +1,22 @@
+1Bit.gtp	z88dk 1-Bit Sound test playing all available predefined sounds on the audio tape output
+chessdem.gtp	z88dk Chessboard Demo (Galaksija Plus Highres)
+dstar.gtp	z88dk "Death Star" Game (Galaksija Minus), use QAOP and Space
+dstarpl.gtp	z88dk "Death Star" Game (Galaksija Plus Highres), use QAOP and Space
+globe.gtp	z88dk Globe Demo (Galaksija Plus Highres)
+kbdtest.gtp	Keyboard Test, written by Dragoljub O.
+megaplus.gtp	My little "Megatoll" graphics screen created with z88dk (Galaksija Plus Highres)
+
+More software links for the Galaksija (Plus):
+
+https://sourceforge.net/u/robertk-retro/profile
+My own cross-platform games/programs created with z88dk, all supporting the Galaksija Plus:
+H-Tron, Elite Planet Browser, Mastermind RK and Deepspace
+
+http://retrospec.sgn.net/users/tomcat/yu/Galaksija_list.php
+Software archive
+
+http://galaksija.epizy.com/
+Galaksija repository with an even larger software archive.
+
+https://github.com/mejs/galaksija/tree/master/programs
+A few demos for the standard Galaksija model, the "retroinfo_demo" is very spectacular.
