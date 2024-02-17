@@ -1,0 +1,2 @@
+# Galaksija_Plus
+ GalaksijaPlus
